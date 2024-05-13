@@ -5,7 +5,7 @@ Data Exploration: Explored the Malaria dataset to understand its structure, feat
 
 Model Creation: Developed a classification model using TensorFlow to classify images into infected and uninfected categories. Utilized convolutional neural networks (CNNs) to leverage spatial hierarchies present in the images.
 
-Model Training and Evaluation: Trained the classification model on the Malaria dataset and evaluated its performance using appropriate metrics such as accuracy, precision, recall, and F1-score. Fine-tuned the model to achieve optimal results.
+Model Training and Evaluation: Trained the classification model on the Malaria dataset and evaluated its performance using appropriate metrics.
 
 Visualization: Visualized the model's performance through various plots and graphs, illustrating key metrics and performance trends during training and evaluation.
 
